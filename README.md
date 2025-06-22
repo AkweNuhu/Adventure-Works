@@ -5,7 +5,7 @@ The objectives of the work involved to show the visuals of the following:
   To get sun of sales and budget by Category,
   Sum of sales trend by year,
   Sum of sales by Month,
-  Sun of sales by country,
+  Sum of sales by country,
   Sum of Sales by Region,
   Sum of Sales by Genger,
   Sum of sales by Age group,
