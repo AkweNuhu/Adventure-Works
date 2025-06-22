@@ -1,8 +1,8 @@
 # Adventure-Works
 Analysis of Adventure works using Power BI
-The analysis involves rigorous works that has to do with transforming the raw data into workable data to make an inform decision.
+The analysis involves rigorous works that has to do with extraction, cleaning and transformation of the raw data into workable data to make an informed decision.
 The objectives of the work involved to show the visuals of the following:
-  To get sun of sales and budget by Category,
+  sum of sales and budget by Category,
   Sum of sales trend by year,
   Sum of sales by Month,
   Sum of sales by country,
