@@ -1,6 +1,6 @@
 # Adventure-Works
 Analysis of Adventure works using Power BI
-The analysis involves rigorous works that has to do with extraction, cleaning and transformation of the raw data into workable data to make an informed decision.
+The analysis involves rigorous work that has to do with extraction, cleaning and transformation of the raw data into workable data to make an informed decision. We statrted by extracting the data from excel data source, some of the data were clean while some were not. The entire data was checked, cleaned and transformed using querry editor before loading into power BI. Some additional tables that did not come with the dataset such as age, age group were created to visualise sales by age group using DAX expression. some measures such as total sale, total profit, total product, total budget were created to give us visuals.
 The objectives of the work involved to show the visuals of the following:
   sum of sales and budget by Category,
   Sum of sales trend by year,
